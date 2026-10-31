@@ -4,7 +4,7 @@ An adaptive QTC-domain video steganography framework for HEVC (H.265) that inves
 
 > **Status:** Undergraduate Thesis — In Progress
 
----
+--- 
 
 ## Overview
 
